@@ -1,0 +1,8 @@
+0,AaB0,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
+2,AaB2,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
+4,AaB4,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
+6,AaB6,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
+8,AaB8,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
+10,AaB10,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
+12,AaB12,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
+14,AaB14,Artesco,lapices,2HB,0.8,1.0,0.8,efectivo,ninguno,0.0,0.0,0.9520000000000001
